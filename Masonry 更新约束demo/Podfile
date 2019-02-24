@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target 'Masonry 更新约束demo' do
+pod 'Masonry'
+end
